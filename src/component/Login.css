@@ -1,0 +1,38 @@
+.login-heading{
+font-size: 40px;
+color: chocolate;
+}
+
+.input-field{
+width: 200px;
+height: 40px;
+border: 2px solid tomato;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.input-field:hover{
+border: 2px solid greenyellow;  
+}
+
+.form-container{
+height: 400px;
+width: 400px;
+border: 2px solid royalblue;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.login-submit{
+    height: 30px;
+    width: 100px;
+    color: rgb(164, 16, 164);
+    background-color: aquamarine;
+    border: none;
+}
+
+.login-submit:hover{
+    border: 2px solid rgb(164, 16, 164);
+}

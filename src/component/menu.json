@@ -1,0 +1,27 @@
+
+[
+    {
+        "id":1,
+        "name":"Veg Burger",
+        "photo":"src/assets/breakfast/pexels-photo-7828570.webp",
+        "cost":99
+    },
+    {
+        "id":2,
+        "name":"Chole Bhature",
+        "photo":"src/assets/breakfast/istockphoto-873539518-612x612.jpg",
+        "cost":"250"
+    },
+    {
+        "id":3,
+        "name":"Samose",
+        "photo":"src/assets/breakfast/pexels-photo-2474658.jpeg",
+        "cost":"25"
+    },
+    {
+        "id":4,
+        "name":"Jalebi",
+        "photo":"src/assets/breakfast/pexels-photo-14530314.webp",
+        "cost":"149"
+    }
+]

@@ -1,0 +1,27 @@
+
+[
+    {
+        "id":1,
+        "name":"Toor Daal Rice",
+        "photo":"src/assets/lunch/pexels-photo-28675074.webp",
+        "cost":199
+    },
+    {
+        "id":2,
+        "name":"Delux Thali",
+        "photo":"src/assets/lunch/pexels-photo-19418741.webp",
+        "cost":"349"
+    },
+    {
+        "id":3,
+        "name":"Rajma Chawal",
+        "photo":"src/assets/lunch/pexels-photo-12737912.jpeg",
+        "cost":"149"
+    },
+    {
+        "id":4,
+        "name":"Chole Chawal",
+        "photo":"src/assets/lunch/istockphoto-1388454301-612x612.jpg",
+        "cost":"189"
+    }
+]

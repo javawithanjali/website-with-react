@@ -1,0 +1,27 @@
+
+[
+    {
+        "id":1,
+        "name":"Laddoo",
+        "photo":"src/assets/sweet/pexels-photo-19151506.webp",
+        "cost":499
+    },
+    {
+        "id":2,
+        "name":"Gulab Jamun",
+        "photo":"src/assets/sweet/pexels-photo-15014919.webp",
+        "cost":"450"
+    },
+    {
+        "id":3,
+        "name":"Mix Sweet",
+        "photo":"src/assets/sweet/pexels-photo-9951856.jpeg",
+        "cost":"599"
+    },
+    {
+        "id":4,
+        "name":"Peda",
+        "photo":"src/assets/sweet/free-photo-of-traditional-indian-sweets.jpeg",
+        "cost":"549"
+    }
+]

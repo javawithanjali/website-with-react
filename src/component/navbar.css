@@ -1,0 +1,29 @@
+.header-contant{
+    color: azure;
+    background-color: royalblue;
+    font-size: 20px;
+}
+
+.header-contant ul {
+    display: flex;
+}
+
+.header-contant ul li{
+    list-style: none;
+}
+
+.header-contant ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.logo-header{
+    height:50px;
+    width:50px;
+}
+
+.header-heading{
+   display: flex;
+   align-items: center;
+   justify-content: space-around; 
+}
